@@ -4,10 +4,8 @@ This repository contains a basic Tic Tac Toe game implemented using HTML, CSS, a
 
 ### Features
 
-* Play against a computer opponent (easy mode - random moves)
 * Take turns marking the board with X or O
 * Winning condition detection (rows, columns, diagonals)
-* Displays the current player's turn
 * Clean and well-structured code for easy understanding
 
 ### Getting Started
